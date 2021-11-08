@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @YunusSmr
 - 👀 I’m interested in Java and Web developing
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning Java and Dart
 - 📫 How to reach me yunussumer2040@gmail.com
 
 <!---
