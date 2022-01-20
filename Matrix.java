@@ -62,7 +62,7 @@ public class Matrix {
                         System.out.println("Matrix'in işlemden sonraki hali:");
                         PrıntMatrıx(matrix);
                     } else {
-                        System.out.println("Bu şekilde bir işlem yapılamaz.");
+                        System.out.println("Bu şekilde bir işlem yapılamaz.","UTF-8");
                     }
                     break;
                 case 50:
